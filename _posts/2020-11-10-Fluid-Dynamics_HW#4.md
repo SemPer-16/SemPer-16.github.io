@@ -16,7 +16,7 @@ $$
 $$
 With ignoring the gravity, differentiate the equation.
 $$
-\frac{P}{\rho}+\int{\frac{V^2}{r}}dn+\cancelto 0 {gz}=C\\
+\frac{P}{\rho}+\int{\frac{V^2}{r}}dn+\cancelto{0}{gz}=C\\
 \frac{dP}{\rho}+\frac{V^2}{r}dn=0\\
 \therefore dP=-\frac{\rho V^2}{r}dn
 $$
@@ -36,13 +36,14 @@ $$
 
 The boundary condition for pressure is
 $$
-\lim_{r \to \infin }P(r)=P_{atm}
+\lim_{r \to \infty }P(r)=P_{atm}
 $$
 To get $P(0)$
 $$
-\lim_{a \to \infin}\int^{P(a)}_{P(0)}dp=\lim_{a \to \infin}\int^a_0{\frac{\rho V^2}{r}}dr\\
-P_{atm}-P(0)=\int^{R_0}_0{\frac{\rho V_{max}^2r}{R_0^2}}dr+\lim_{a \to \infin}\int^a_{R_0}{\frac{\rho V_{max}^2R_0^2}{r^3}}dr\\
-= \frac{\rho V_{max}^2}{2R_0^2}(R_0^2-\cancelto 0 {0^2})-\lim_{a \to \infin}\frac{\rho(V_{max}R_0)^2}{2}(\cancelto 0 {\frac{1}{a^2}}-\frac{1}{R_0^2})\\
+\lim_{a \to \infty}\int^{P(a)}_{P(0)}dp=\lim_{a \to \infty}\int^a_0{\frac{\rho V^2}{r}}dr\\
+P_{atm}-P(0)=\int^{R_0}_0{\frac{\rho V_{max}^2r}{R_0^2}}dr+\lim_{a \to \infty}\int^a_{R_0}{\frac{\rho V_{max}^2R_0^2}{r^3}}dr\\
+= \frac{\rho V_{max}^2}{2R_0^2}(R_0^2-\cancelto{0}{0^2})-\lim_{a \to \infty}\frac{\rho(V_{max}R_0)^2}{2}(\cancelto{0}{\frac{1}{a^2}}-\frac{1}{R_0^2})\\
 =\frac{\rho V_{max}^2}{2}+\frac{\rho V_{max}^2}{2}=\rho V_{max}^2\\
 \therefore P(0)=P_{atm}-\rho V_{max}^2
 $$
+
