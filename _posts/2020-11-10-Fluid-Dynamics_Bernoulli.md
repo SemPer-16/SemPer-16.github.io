@@ -20,7 +20,8 @@ If we set the equation over 1 to 2 line,
 
 
 $$
-R \rightarrow \infin\\
+\require{cancel}
+R \rightarrow \infty\\
 \frac{P_1}{\rho}+\cancelto{0}{\int{\frac{V^2}{R}}dn}+\cancelto 0 {gz}=\frac{P_2}{\rho}+\cancelto{0}{\int{\frac{V^2}{R}}dn}+\cancelto 0 {gz}\\
 \therefore P_1=P_2
 $$
@@ -30,6 +31,7 @@ and consider the streamline 1 to 3 and 2 to 4,
 
 
 $$
+\require{cancel}
 \frac{P_1}{\rho}+\frac12V_1^2+\cancelto0{gz}=C_{13}\\
 \frac{P_2}{\rho}+\frac12V_2^2+\cancelto0{gz}=C_{24}\\
 P_1=P_2,\ V_1=V_2\\
