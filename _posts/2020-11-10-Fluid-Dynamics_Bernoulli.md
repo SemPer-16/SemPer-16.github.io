@@ -1,3 +1,16 @@
+---
+layout: post
+title: Fluid Dynamics
+subtitle: Velocity difference for inside and outside of fluid
+tags: [Fluid Dynamics, Bernoulli Equation]
+cover-img: /img/fluid_wallpaper.jpg
+thumbnail-img: /img/fluid_icon.jpg
+share-img: /img/fluid_wallpaper.jpg
+comments: true
+permalink: /Fluid_Dynamics/across the streamline/
+---
+
+
 ![img](https://semper-16.github.io/img/Fluid_Dynamics/River_flow.png){: .mx-auto.d-block :}
 
 
