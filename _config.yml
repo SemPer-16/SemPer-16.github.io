@@ -15,8 +15,8 @@ author: Kim Seunggyu (special thanks to Choi Injun)
 
 navbar-links:
   About: 
-    - Me: "aboutme"
-    - Detail: "contents"
+    - Me: "/navbar/aboutme"
+    - Detail: "/navbar/contents"
   Contents:
     - IPSI: "/IPSI/STD_C/1/"
 # --- Logo --- #
