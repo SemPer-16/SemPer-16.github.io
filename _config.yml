@@ -18,7 +18,7 @@ navbar-links:
     - Me: "aboutme"
     - Detail: "contents"
   Contents:
-    - IPSI: "/_posts/2020-11-27-STD_C#Beta.md"
+    - IPSI: "/_posts/2020-11-27-STD_C#Beta"
 # --- Logo --- #
 
 # Image to show in the navigation bar - works best with a square image
