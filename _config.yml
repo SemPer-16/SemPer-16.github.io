@@ -18,7 +18,7 @@ navbar-links:
     - Me: "/navbar/aboutme"
     - Detail: "/navbar/contents"
   Contents:
-    - IPSI: "/IPSI/STD_C/1/"
+    - IPSI: "/navbar/ipsi"
 # --- Logo --- #
 
 # Image to show in the navigation bar - works best with a square image
@@ -45,7 +45,7 @@ social-network-links:
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-   instagram: AgstRy16
+#   instagram: AgstRy16
 #  youtube: user/deanat78
 #  spotify: yourname
 #  telephone: +14159998888
