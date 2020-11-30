@@ -26,8 +26,6 @@ SemPer_
 
 E-mail: check footer
 
-Instagram: check footer
-
 KAKAO: [Github(SemPer_)](https://open.kakao.com/o/so7V5vuc)
 
 Orbi: [SemPer_](https://orbi.kr/profile/606828)
