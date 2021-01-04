@@ -26,6 +26,8 @@ subtitle: 다양한 입시정보 및 프로그램
 
 - ##### [Ver_1.1](https://semper-16.github.io/IPSI/STD_C/3/)
 
+- ##### [Ver_1.2](https://semper-16.github.io/IPSI/STD_C/4/)
+
 <br>
 
 ## 입시분석
