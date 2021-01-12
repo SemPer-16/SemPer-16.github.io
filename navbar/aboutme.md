@@ -6,8 +6,6 @@ subtitle: Who am I?
 
 
 ### Name
-Kim Seunggyu
-
 SemPer_
 
 
