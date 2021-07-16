@@ -33,7 +33,7 @@ Pros and cons for SIEs and SPEs are shown by table in below.
 
 
 
-To overcome these challenges, SIE materials have been designed <u>to enable elevated ionic conductivit</u>y (but ionic conductivity of SIEs is pros... No idea..)  or more fundamentally, <u>decreasing electrostatic forces[^1]</u>  which drop the transportation and ion conductivity within the material by increasing distance between the mobile cation and neighbouring anions.
+To overcome these challenges, SIE materials have been designed <u>to enable elevated ionic conductivit</u>y (but ionic conductivity of SIEs is pros... No idea..)  or more fundamentally, <u>decreasing electrostatic forces</u>[^1]  which drop the transportation and ion conductivity within the material by increasing distance between the mobile cation and neighbouring anions.
 
 The process responsible for ion-pair dissociation for SPE materials , even if we use PEO, PAN, PMMA, etc in which the electron-withdrawing groups enable ion-pair dissocation, <u>lead to dynamic association between mobile cations and the long-chain molecules.</u> That is why crystaline lattice disturb the motion of cation. Therefore, to conquest these issues, there are physical and chemical strategies to design SPEs that frustrate crystallization to enable acceptable ionic conductivities.
 
@@ -49,5 +49,5 @@ The process responsible for ion-pair dissociation for SPE materials , even if we
 ***
 ***
 
-[^1]: Coluomb Force ($=\frac{q_1q_2}{\epsilon r^2}$). Therefore, increasing distance will drop it.
 
+[^1]: Coulomb Force ($=\frac{q_1q_2}{\epsilon r^2}$). Therefore, increasing distance will drop it.
