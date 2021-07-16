@@ -5,12 +5,13 @@ subtitle: Designing solid-state electrolytes for safe, energy-dense batteries
 tags: [Paper Review,Li-metal]
 comments: true
 permalink: /Review/1/
+
 ---
 
 <br>
 
 
-#### Trends of SSE
+### Trends of SSE
 
 Recent study of SSEs is focused on RT ionic conductivites, higher charge-transport efficiency. Why is that? There are three major market demands for EES which are <u>transportation, grid storage, and residential power-backup applications.</u> This means, in the future, we need to concern about practical issues like safety problems.
 
@@ -20,7 +21,7 @@ In historical views, SSEs started about 200 years ago by Micheal Faraday, howeve
 
 
 
-#### Properties of SIEs and SPEs
+### Properties of SIEs and SPEs
 
 Pros and cons for SIEs and SPEs are shown by table in below.
 
@@ -37,9 +38,7 @@ To overcome these challenges, SIE materials have been designed <u>to enable elev
 
 The process responsible for ion-pair dissociation for SPE materials , even if we use PEO, PAN, PMMA, etc in which the electron-withdrawing groups enable ion-pair dissocation, <u>lead to dynamic association between mobile cations and the long-chain molecules.</u> That is why crystaline lattice disturb the motion of cation. Therefore, to conquest these issues, there are physical and chemical strategies to design SPEs that frustrate crystallization to enable acceptable ionic conductivities.
 
-
-
-
+As above, there are distinct advantage and disadvantage of each material. If we make the formation of SIE-SPE composites which has both good features, It will be attractive step. For example, addition of inert inorganic particles (SIEs) into ion-conductive engineering polymers such as PEO (SPEs) increases the mechanical strength and thermal stability etc. Over past 5 years, lots of remedies of various SSEs has emerged. those areas of study aslo include the mechanical heterogenity. Still, there are two major materials that we classify, the interest of composites will cross these boundaries.
 
 
 
@@ -47,7 +46,10 @@ The process responsible for ion-pair dissociation for SPE materials , even if we
 
 
 ***
-***
 
+***
 
 [^1]: Coulomb Force ($=\frac{q_1q_2}{\epsilon r^2}$). Therefore, increasing distance will drop it.
+
+
+
